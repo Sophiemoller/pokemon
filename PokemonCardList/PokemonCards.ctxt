@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PokemonCards
+comment0.text=\n\ Driver\ class.\n\ Holds\ a\ collection\ of\ pokemon\ cards\ and\ their\ details\ in\ a\ hashmap\n\ allows\ user\ to\ add,\ find,\ print\ all\ pokemon\ cards\n\n\ @author\ Sophie\ Moller\n\ @version\ 23/5/22\n
+comment1.params=
+comment1.target=PokemonCards()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PokemonCards\n
+comment2.params=
+comment2.target=void\ setPokemonCardId()
+comment2.text=\n\ set\ card\ id\n
+comment3.params=name\ mon\ img
+comment3.target=void\ addCard(java.lang.String,\ int,\ java.lang.String)
+comment3.text=\n\ Add\ card\ to\ Pokemon\ card\ list\ function\n\ Adding\ card\ to\ hashmap\n\ @param\ name\ for\ PokemonCards\n\ @param\ mon\ for\ PokemonCards\n\ @param\ img\ for\ PokemonCards\n
+comment4.params=name
+comment4.target=boolean\ findCard(java.lang.String)
+comment4.text=\n\ Find\ a\ pokemon\ card\ based\ on\ the\ name\n\ returns\ boolean\ false\ if\ the\ card\ isnt\ found\n\ @param\ name\ for\ PokemonCards\n\ @return\ name\ for\ PokemonCards\n
+comment5.params=
+comment5.target=PokemonCard\ getPokemonCard()
+comment5.text=\n\ getter\ for\ current\ card\ instance\n\ @return\ currCard\ for\ PokemonCards\n
+comment6.params=
+comment6.target=void\ printAll()
+comment6.text=\n\ print\ details\ of\ all\ cards\ and\ their\ details\n
+numComments=7

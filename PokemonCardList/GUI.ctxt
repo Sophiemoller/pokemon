@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\n\ GUI\ class\ displays\ pokemon\ card\ and\ pokemon\ cards\ class\ visually.\n\n\ @author\ Sophie\ Moller\n\ @version\ 24/5/22\n
+comment1.params=
+comment1.target=GUI()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GUI\n
+comment2.params=
+comment2.target=void\ addCard()
+comment2.text=\n\ User\ adds\ card\ and\ its\ details\n
+comment3.params=
+comment3.target=void\ findCard()
+comment3.text=\n\ Find\ PokemonCard\ based\ on\ name\n
+comment4.params=
+comment4.target=void\ hideCard()
+comment4.text=\n\ Hides\ current\ Pokemon\ cards\ details\n
+comment5.params=action\ x\ y
+comment5.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment5.text=\n\ Select\ object\ based\ on\ where\ suer\ clicks\ and\ erases\ pokemon\ card\ details\n
+numComments=6
